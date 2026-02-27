@@ -81,7 +81,7 @@ New Customers: 18K
 
 Active During Crisis: 32K
 
-[screenshot]!()
+![screenshot](https://github.com/Shumaila-Hasan/-Crisis-Recovery-Business-Strategy-/blob/main/customer_impact_amalysis.png)
 
 3. Delivery & Operations :-
 
