@@ -93,7 +93,7 @@ Cancellation Rate: ~7% (doubled)
 
 Delivery Partners: 15K
 
-[screenshot]!()
+![screenshot](https://github.com/Shumaila-Hasan/-Crisis-Recovery-Business-Strategy-/blob/main/operational_performance.png)
 
 4. Restaurant Analysis :-
 
