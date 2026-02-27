@@ -111,7 +111,7 @@ Ratings dropped from ~4.6 → ~2.3
 
 Negative sentiment increased
 
-[screenshot]!()
+![screenshot](https://github.com/Shumaila-Hasan/-Crisis-Recovery-Business-Strategy-/blob/main/customer_sentiment.png)
 
 # Key issues:
 
