@@ -67,7 +67,7 @@ Revenue drop ~71% (₹37.62M → ₹10.94M)
 
 Bengaluru & Mumbai drop ~70%
 
-[screenshot]!(https://github.com/Shumaila-Hasan/-Crisis-Recovery-Business-Strategy-/blob/main/crisis_overview.png)
+![screenshot](https://github.com/Shumaila-Hasan/-Crisis-Recovery-Business-Strategy-/blob/main/crisis_overview.png)
 
 2. Customer Impact  Analysis :-
 
