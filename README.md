@@ -103,7 +103,7 @@ Top restaurants saw 60–85% decline in orders
 
 Cuisine-level demand shifted
 
-[screenshot]!()
+![screenshot](https://github.com/Shumaila-Hasan/-Crisis-Recovery-Business-Strategy-/blob/main/restaurant.png)
 
 5. Customer Sentiment Analysis :-
 
