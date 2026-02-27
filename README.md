@@ -1,4 +1,4 @@
-# QuickBite Crisis Recovery Analysis
+# QuickBite Crisis  Analysis
 # Problem Statement
 
 This project is based on a resume challenge from Codebasics.
@@ -59,7 +59,7 @@ Built interactive dashboards for business insights
 
 The dashboard is divided into 5 key sections:
 
-1️⃣ Crisis Overview
+1. Crisis Overview :-
 
 Orders drop ~69%
 
@@ -67,7 +67,9 @@ Revenue drop ~71% (₹37.62M → ₹10.94M)
 
 Bengaluru & Mumbai drop ~70%
 
-2️⃣ Customer Analysis
+[screenshot]!()
+
+2. Customer Impact  Analysis :-
 
 Total Customers: 105K+
 
@@ -79,9 +81,11 @@ New Customers: 18K
 
 Active During Crisis: 32K
 
-3️⃣ Delivery & Operations
+[screenshot]!()
 
-Avg Delay: 5.71 mins
+3. Delivery & Operations :-
+
+Avg Delay: 5.71 
 
 SLA Compliance: 36%
 
@@ -89,7 +93,9 @@ Cancellation Rate: ~7% (doubled)
 
 Delivery Partners: 15K
 
-4️⃣ Restaurant Analysis
+[screenshot]!()
+
+4. Restaurant Analysis :-
 
 Active restaurants dropped significantly
 
@@ -97,13 +103,17 @@ Top restaurants saw 60–85% decline in orders
 
 Cuisine-level demand shifted
 
-5️⃣ Customer Sentiment Analysis
+[screenshot]!()
+
+5. Customer Sentiment Analysis :-
 
 Ratings dropped from ~4.6 → ~2.3
 
 Negative sentiment increased
 
-Key issues:
+[screenshot]!()
+
+# Key issues:
 
 Food safety
 
@@ -121,7 +131,7 @@ Despite 18K new users, active users dropped to 32K, showing weak retention.
 
 Metro cities (Bengaluru & Mumbai) drove most of the decline.
 
-Delivery performance collapsed:
+Delivery performance collapsed
 
 SLA drop to 36%
 
@@ -144,29 +154,29 @@ Weak Retention Strategy: Loyal customers not effectively retained
 Platform Reputation Damage: Entire ecosystem affected
 
 # Recommendations
- Customer Strategy
+ Customer Strategy :-
 
 Run win-back campaigns for churned users
 
 Introduce loyalty programs & personalized offers
 
- Operations
+ Operations :-
 
 Optimize delivery partner allocation
 
 Implement real-time routing & SLA tracking
 
- City Strategy
+ City Strategy :-
 
 Focus on Bengaluru & Mumbai for faster recovery
 
- Restaurant Strategy
+ Restaurant Strategy :-
 
 Retain top-performing partners
 
 Enforce food safety standards
 
- Customer Experience
+ Customer Experience :-
 
 Improve packaging & food quality
 
@@ -188,6 +198,6 @@ Customer segmentation & churn analysis
 
 KPI design for real-world business problems
 
-🔗 Acknowledgement
+# Acknowledgement
 
 Dataset and problem statement provided by Codebasics as part of a resume challenge.
